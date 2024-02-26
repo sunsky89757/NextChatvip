@@ -360,7 +360,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "欢迎使用ChatGPT-4-Turbo！[[文件上传]](https://up.gptacg.com/upload.php)|[[消耗明细]](https://www.gptacg.com/bill/)|[[API-Key自助购买]](https://one.meithink.com)|[[蛋壳官网]](https://www.gptacg.fun)",
+    BotHello: "欢迎使用ChatGPT-4-Turbo！[[文件上传]](https://upload.gongxiangai.top/upload.php)|[[消耗明细]](https://www.gptacg.com/bill/)|[[API-Key自助购买]](https://one.meithink.com)|[[蛋壳官网]](https://www.gptacg.fun)",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
