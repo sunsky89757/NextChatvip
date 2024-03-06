@@ -8,7 +8,7 @@ const cn = {
   Error: {
     Unauthorized: isApp
       ? "检测到无效 API Key，请前往[设置](/#/settings)页检查 API Key 是否配置正确。"
-      : "请在[设置](/#/settings)页填入两项信息：1、接口信息：https://api.juheai.top（24年02月29日前购买通用Key用户接口请填写https://api.gptacg.com）;2、填入购买的API-Key。",
+      : "请在[设置](/#/settings)页填入两项信息：1、接口信息：https://api.juheai.top（24年02月29日前购买通用Key用户接口请填写https://api.gptacg.com）;2、填入购买的API-Key | [[查看图示说明]](https://www.gptacg.com/wp-content/uploads/2024/03/配置方法.webp)",
   },
   Auth: {
     Title: "需要密码",
