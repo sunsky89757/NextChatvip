@@ -10,8 +10,8 @@ import { GoogleTagManager } from "@next/third-parties/google";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "ChatGPT-4-turbo",
-  description: "https://www.gptacg.fun",
+  title: "ChatAI-In-One",
+  description: "汇聚多个AI的丝滑对话程序",
   viewport: {
     width: "device-width",
     initialScale: 1,
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "ChatGPT-4-turbo",
+    title: "ChatAI-In-One",
     statusBarStyle: "default",
   },
 };
