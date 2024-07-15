@@ -377,7 +377,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "欢迎使用ChatAI-In-One！[[文件上传]](https://upload.gongxiangai.top/upload.php)|[[消费查询]](https://www.gptacg.com/juhebill/)|[[API-Key自助购买]](https://xd.meithink.com)|[[蛋壳官网]](https://www.gptacg.fun)",
+    BotHello: "欢迎使用ChatAI-In-One！[[文件上传]](https://upload.gongxiangai.top/upload.php)|[[消费查询]](https://www.gptacg.com/juhebill/)|[[API-Key自助购买]](https://one.xdstore.top)|[[蛋壳官网]](https://www.gptacg.fun)",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
