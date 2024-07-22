@@ -285,7 +285,8 @@ export const DEFAULT_MODELS = [
   })),
   ...openaiModels.map((name) => ({
     name,
-    available: true,
+    // 这里手动更改了AZ默认下模型不可用
+    available: false,
     provider: {
       id: "azure",
       providerName: "Azure",
